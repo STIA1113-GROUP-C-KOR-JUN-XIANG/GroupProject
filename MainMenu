@@ -32,14 +32,11 @@ public class Project1 {
 			System.out.println("Calculation for mass of ingredients to make cake for 1 month");
 			System.out.println();
 			
-			
 			System.out.println("3.Rice");
 			System.out.println("Calculate the yield.");
 			System.out.println("Calculate the next harvest amount.");
 			System.out.println("Arranging the inventory.");
 			System.out.println();
-			
-					
 						
 			System.out.println("4.Dessert");
 			System.out.println("Finance calculation and statement of dessert shop ");
@@ -55,7 +52,6 @@ public class Project1 {
 			x = sc.nextInt();
 			
 			switch(x) {
-		
 		
 		case 1:
 			System.out.println("Hi,Welcome to HO JUN HAN store! " + name);
@@ -92,7 +88,6 @@ public class Project1 {
 			System.out.println();
 			break;
 		
-			
 		}
 			System.out.println("Do you want to continue to other food or drink?");
 			System.out.println("1.Yes 2.No");
